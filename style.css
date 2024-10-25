@@ -93,8 +93,6 @@ body{
 
 }
 .dispositivos{
-
-}
 .dispositivos-titulo{
     font-size: 48px;
     color: var(--branco-principal);
@@ -112,4 +110,5 @@ body{
 }
 .rodape-lista{
     display: flex;
+}
 }
